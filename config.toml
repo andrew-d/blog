@@ -1,0 +1,11 @@
+baseurl = "https://dunham.io"
+languageCode = "en-us"
+title = "Andrew Dunham's Blog"
+
+pygmentsstyle = "igor"
+
+
+[params]
+githubName = "andrew-d"
+twitterName = "andrew_dunham"
+description = "Tech, life, and more"
