@@ -1,9 +1,12 @@
 baseurl = "https://dunham.io"
-languageCode = "en-us"
 title = "Andrew Dunham's Blog"
+languageCode = "en-us"
+copyright = "Copyright (c) 2012 - 2015, Andrew Dunham"
 
 pygmentsstyle = "igor"
 
+[author]
+name = "Andrew Dunham"
 
 [params]
 githubName = "andrew-d"
